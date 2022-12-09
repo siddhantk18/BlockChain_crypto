@@ -1,0 +1,23 @@
+{
+  "name": "blockchain_crypto",
+  "version": "1.0.0",
+  "description": "\"Crypto currency\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddhantk18/BlockChain_crypto.git"
+  },
+  "author": "\"siddhant khot\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddhantk18/BlockChain_crypto/issues"
+  },
+  "homepage": "https://github.com/siddhantk18/BlockChain_crypto#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  }
+}
